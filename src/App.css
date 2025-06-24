@@ -1,0 +1,17 @@
+.cube-face {
+  width: 90px;
+  height: 90px;
+}
+
+.cube-cell {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ccc;
+}
+
+.w { background-color: white; }
+.y { background-color: yellow; }
+.g { background-color: green; }
+.b { background-color: blue; }
+.o { background-color: orange; }
+.r { background-color: red; }
